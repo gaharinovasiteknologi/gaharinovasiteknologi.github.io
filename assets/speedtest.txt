@@ -5,17 +5,17 @@
 ||www.expressvpn.com^
 ||whatismyip.net^
 ||speedtestcustom.com^
-||income.speedtestcustom.com ^
-||iplocation.net ^
-||www.iplocation.net ^
-||www.astrill.com ^
-||www.privateinternetaccess.com ^
+||income.speedtestcustom.com^
+||iplocation.net^
+||www.iplocation.net^
+||www.astrill.com^
+||www.privateinternetaccess.com^
 ||mxtoolbox.com^
-||ifconfig.co ^
-||whatismyip.org ^
+||ifconfig.co^
+||whatismyip.org^
 ||www.goldenfrog.com^
-||www.mxtoolbox.com ^
-||www.ultratools.com ^
+||www.mxtoolbox.com^
+||www.ultratools.com^
 ||www.ip-adress.eu^
 ||www.vermiip.es^
 ||www.purevpn.com^
